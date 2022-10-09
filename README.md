@@ -8,4 +8,4 @@ Assuming the above data points are related to an eCommerce setup. How would the 
 
 Note: I solved this case in two parts: basic EDA in Jupyter notebook which you can find in this repository and customer segmentation and and further analysis in MS Excel, which you can find [here](https://1drv.ms/x/s!AoYW7jN6CCYqeE3h6emY0hnt5j4?e=vcp9es).
 
-I also discuss the results of this case in the pdf uploaded to this repository, make sure you find them.
+I also discuss the results of this case which you read in the pdf uploaded to this repository or on Google Docs [here](https://docs.google.com/document/d/1RfYjN_PVx9umsYqaQJ5TFjAqM61SiEehShwxHzJMsJg/edit?usp=sharing).
